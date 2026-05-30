@@ -1,0 +1,58 @@
+name: shelter_app
+description: Shelter app with Supabase
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  supabase_flutter: ^2.12.2
+  fl_chart: ^0.71.0
+  image_picker: ^1.2.1
+  lottie: ^3.3.3
+  confetti: ^0.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/images/app_paws_texture.png
+    - lib/assets/images/
+    - lib/assets/animations/happy_dog.json
+
+
+fonts:
+    - family: Nunito
+      fonts:
+        - asset: assets/fonts/Nunito-VariableFont_wght.ttf
+        - asset: assets/fonts/Nunito-Italic-VariableFont_wght.ttf
+          style: italic
+
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand-Regular.ttf
+        - asset: assets/fonts/Quicksand-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Quicksand-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Quicksand-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Quicksand-SemiBold.ttf
+          weight: 600
+
+    - family: Agdasima
+      fonts:
+        - asset: assets/fonts/Agdasima-Regular.ttf
+        - asset: assets/fonts/Agdasima-Bold.ttf
+          weight: 700
