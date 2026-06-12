@@ -14,22 +14,14 @@ Watch the comprehensive mobile walk-through showcasing registration, home feed, 
 ## 📸 Screenshots
 
 ### 📱 User Experience & Modules<img width="582" height="893" alt="WhatsApp Image 2026-05-13 at 00 31 12 (7)" src="https://github.com/user-attachments/assets/d53cd53a-f857-46d8-bb18-c937d449af40" />
-
 | Home Feed | Adoption Module | Donation Page |
 | :---: | :---: | :---: |
-| <img width="582" height="893" alt="WhatsApp Image 2026-05-13 at 00 31 12 (16)" src="https://github.com/user-attachments/assets/aac0f554-0af1-481d-af87-caec3035bbc2" />
-| <img width="582" height="893" alt="WhatsApp Image 2026-05-13 at 00 31 12 (7)" src="https://github.com/user-attachments/assets/e89c0ca8-5d91-467f-beb0-dbdbdda51075" />
-| <img width="582" height="893" alt="WhatsApp Image 2026-05-13 at 00 31 12 (15)" src="https://github.com/user-attachments/assets/d9959396-d7d5-4b7c-adf8-0519cb2d4753" />
- |
+| <img src="https://github.com/user-attachments/assets/aac0f554-0af1-481d-af87-caec3035bbc2" width="250"/> | <img src="https://github.com/user-attachments/assets/e89c0ca8-5d91-467f-beb0-dbdbdda51075" width="250"/> | <img src="https://github.com/user-attachments/assets/d9959396-d7d5-4b7c-adf8-0519cb2d4753" width="250"/> |
 
 ### 🔐 Auth & Profiles
 | Authentication | Animal Profiles | User Profile |
 | :---: | :---: | :---: |
-| <img width="582" height="891" alt="WhatsApp Image 2026-05-13 at 00 31 12" src="https://github.com/user-attachments/assets/05b65206-f196-4e61-9cda-74081a763add" />
-| <img width="582" height="893" alt="WhatsApp Image 2026-05-13 at 00 31 12 (10)" src="https://github.com/user-attachments/assets/606c120c-95a3-4a22-a20b-bbbfc6da8976" />
-| <img width="582" height="893" alt="WhatsApp Image 2026-05-13 at 00 31 12 (12)" src="https://github.com/user-attachments/assets/020007d0-2cba-4cbb-9c19-1b7a5bff4f70" />
- |
-
+| <img src="https://github.com/user-attachments/assets/05b65206-f196-4e61-9cda-74081a763add" width="250"/> | <img src="https://github.com/user-attachments/assets/606c120c-95a3-4a22-a20b-bbbfc6da8976" width="250"/> | <img src="https://github.com/user-attachments/assets/020007d0-2cba-4cbb-9c19-1b7a5bff4f70" width="250"/> |
 ---
 
 ## 🚀 Key Features
@@ -56,7 +48,6 @@ Watch the comprehensive mobile walk-through showcasing registration, home feed, 
 
 The project strictly follows clean code standards and a structured design architecture:
 ```markdown
-```text
 animal-shelter-app/ (Repository Root)
 ├── android/, ios/, web/, windows/  # Native platform wrappers
 ├── lib/                             # Core Flutter source code
