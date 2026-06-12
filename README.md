@@ -13,7 +13,7 @@ Watch the comprehensive mobile walk-through showcasing registration, home feed, 
 
 ## 📸 Screenshots
 
-### 📱 User Experience & Modules<img width="582" height="893" alt="WhatsApp Image 2026-05-13 at 00 31 12 (7)" src="https://github.com/user-attachments/assets/d53cd53a-f857-46d8-bb18-c937d449af40" />
+### 📱 User Experience & Modules
 | Home Feed | Adoption Module | Donation Page |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/aac0f554-0af1-481d-af87-caec3035bbc2" width="250"/> | <img src="https://github.com/user-attachments/assets/e89c0ca8-5d91-467f-beb0-dbdbdda51075" width="250"/> | <img src="https://github.com/user-attachments/assets/d9959396-d7d5-4b7c-adf8-0519cb2d4753" width="250"/> |
