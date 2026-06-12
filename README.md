@@ -4,11 +4,13 @@
 
 ---
 
-## 🎬 Application Demo
+<!--## 
+
+🎬 Application Demo
 Watch the comprehensive mobile walk-through showcasing registration, home feed, adoption process, and real-time shelter modules:
 
 <video src="BURAYA_VIDEO_LINKINI_EKLEYIN" width="100%" controls></video>
-
+-->
 ---
 
 ## 📸 Screenshots
