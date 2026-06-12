@@ -1,10 +1,3 @@
-Harika! Bu son görsellerle birlikte **Patili Dostlar (Animal Shelter App)** projesinin tüm klasör yapısı (yapbozun tüm parçaları) tamamen netleşti.
-
-Bir önceki projede yaşadığın **tablo kırılması** ve **görsellerin basık görünmesi** sorununu bu projede de yaşamaman için, ekran görüntüleri kısmını GitHub'da en estetik ve simetrik duracak şekilde (sadece `width` kullanarak ve doğru tablo dikey çizgileriyle `|`) önceden hazırladım.
-
-İşte projenin tüm klasör hiyerarşisini, kurulum adımlarını ve doğru tablo yapılarını içeren **tek parça, eksiksiz Patili Dostlar README.md** dosyan. Sağ üstteki **"Copy"** butonuna basarak tamamını tek seferde alabilirsin:
-
-```markdown
 # Patili Dostlar (Animal Shelter App)
 
 **Patili Dostlar** is a feature-rich, cross-platform mobile application developed as a Computer Engineering internship project. Built with Flutter and Dart, the application serves as a modern animal shelter ecosystem that bridges the gap between stray animals, shelters, and animal lovers. It facilitates pet adoptions, securely manages donation systems, and helps track animal health records.
@@ -62,7 +55,7 @@ Watch the comprehensive mobile walk-through showcasing registration, home feed, 
 ## 📂 Project Structure
 
 The project strictly follows clean code standards and a structured design architecture:
-
+```markdown
 ```text
 animal-shelter-app/ (Repository Root)
 ├── android/, ios/, web/, windows/  # Native platform wrappers
@@ -142,6 +135,4 @@ flutter run
 
 Developed with passion as part of a Computer Engineering Internship Project at **Aydın Adnan Menderes University**.
 
-```
 
-```
